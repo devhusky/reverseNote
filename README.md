@@ -11,7 +11,7 @@ Non-fat file: WeChat is architecture: arm64 armv7
 #### 获取block符号表文件 block_symbol.json
 
 #### 在ida中执行脚本文件 ida_search_block.py
-￼![https://github.com/devhusky/reverseNote/blob/master/images/1563179714597.jpg?raw=true]()
+￼![https://raw.githubusercontent.com/devhusky/reverseNote/master/images/1563179714597.jpg]()
 
 #### 恢复符号表（包含block符号表）
 > $./restore-symbol  WeChat -o WeChat_temp -j block_symbol.json
