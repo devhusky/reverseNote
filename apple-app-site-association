@@ -1,0 +1,9 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [{
+            "appID": "C9S8GM4ZQJ.com.jfbank.cardbutler.dev",
+            "paths": ["*"]
+            }]
+    }
+}
